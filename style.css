@@ -39,4 +39,5 @@ div .welcome, div .pic{
 
 .home div .text{
     color: hsl(21, 35%, 92%);
+    font-family: monospace, Monaco;
 }
