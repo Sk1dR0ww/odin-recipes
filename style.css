@@ -1,7 +1,7 @@
 .home{
     background-color: hsl(240, 27%, 18%);
 }
-div .welcome, div .adobo-pic{
+div .welcome, div .pic{
     height: auto;
     width: 500px;
     display: block;
@@ -21,10 +21,14 @@ div .welcome, div .adobo-pic{
     text-align: center;
     list-style-type:none ;
 }
-.prev, #top{
+
+.prev{
     text-align: center;
     list-style-type:none ;
 }
+
+
+
 .list a, .prev a, .prev{
     color: hsl(21, 35%, 92%);
     text-decoration: none;
