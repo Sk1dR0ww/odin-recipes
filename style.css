@@ -21,14 +21,18 @@ div .welcome, div .adobo-pic{
     text-align: center;
     list-style-type:none ;
 }
-
-.list a, .prev a{
+.prev, #top{
+    text-align: center;
+    list-style-type:none ;
+}
+.list a, .prev a, .prev{
     color: hsl(21, 35%, 92%);
     text-decoration: none;
     font-size: 20px;
 }
 
-.prev{
-    text-align: center;
-    list-style-type:none ;
+
+
+.home div .text{
+    color: hsl(21, 35%, 92%);
 }
